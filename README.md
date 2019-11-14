@@ -1,3 +1,3 @@
-#t-go-database
+# t-go-database
 Go database tests, among other things
 
